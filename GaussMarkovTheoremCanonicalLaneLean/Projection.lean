@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace GaussMarkovTheoremCanonicalLaneLean
+
+open HautevilleHouse.CanonicalLaneMathlibCore
+
+end GaussMarkovTheoremCanonicalLaneLean
+end HautevilleHouse
